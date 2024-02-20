@@ -1,6 +1,6 @@
 # 0x01. AirBnB clone - Web static
 
-## Learning Objectives:bulb:
+## Description
 What you should learn from this project:
 
 * What is HTML
@@ -71,6 +71,3 @@ What you should learn from this project:
 * Improve the page by adding Accessibility support
 
 ---
-
-## Author
-* **Tolulope Fakunle** - [aysuarex](https://github.com/Tolulope05)
